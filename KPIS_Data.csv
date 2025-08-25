@@ -1,0 +1,2 @@
+Avg Latency (ms),Median Latency (ms),P95 Latency (ms),P99 Latency (ms),Min Latency (ms),Max Latency (ms),Sub-1ms Rate (%),Sub-5ms Rate (%),Samples,Preprocessing Mean (ms),Prediction Mean (ms),Uncertainty Mean (ms),Control Mean (ms)
+1.863298820000061,1.7637685000018166,2.23527169999933,2.983340000003069,1.4636310000000208,10.298333999998022,0.0,99.0,200,1.5861987749998008,0.1665961900000923,0.08006370999982693,0.024846280000012655
